@@ -1,0 +1,6 @@
+{
+  "name": "DailyKhata — Personal Expense Tracker",
+  "description": "Smart daily expense tracker for Bangladesh with dedicated cigarette tracking, BDT currency support, multi-week breakdowns, and budget management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
